@@ -26,7 +26,7 @@ La largeur du contenu devra être tenue dans un maximum de 900px.
 
 Dans l'aperçu ci-dessous, vous remarquerez qu'on a 3 sections dans la page : Performance, Recherche, et Développement durable.
 
-La structure de ces 3 sections sera la même : un titre, une image, un texte. Au moins un des 3 textes texte devra faire apparaître une liste (numérotée ou non, peu importe).
+La structure de ces 3 sections sera la même : un titre, une image, un texte. Au moins un des 3 textes devra faire apparaître une liste (numérotée ou non, peu importe).
 
 Par ailleurs, chaque section devra être suffisamment espacée de la suivante avec l'application d'une marge appropriée.
 
