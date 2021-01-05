@@ -54,3 +54,38 @@ h2 {
   padding: 1em;
   color: #fff;
 }
+
+#contact-form {
+  max-width: 650px;
+  margin: auto;
+}
+
+.zoneSaisie {
+  padding-bottom: 1.3em;
+}
+
+#contact-form textarea {
+  width: 100%;
+}
+
+input,
+textarea,
+button {
+  outline: none;
+}
+
+input,
+textarea {
+  font-family: "Raleway", sans-serif;
+  padding: 7px;
+  font-size: 1em;
+}
+
+button {
+  padding: 0.5em 1em;
+  border: none;
+  background-color: #4d8bf3;
+  color: #fff;
+  font-size: 1em;
+  text-transform: uppercase;
+}
