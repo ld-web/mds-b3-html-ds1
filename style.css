@@ -111,6 +111,17 @@ button:active {
   padding-bottom: 2em;
 }
 
+.article-item a {
+  text-decoration: none;
+  background-color: #5da1ff;
+  color: white;
+  padding: 6px 12px;
+}
+
+.article-item .article-link-container {
+  text-align: right;
+}
+
 @media screen and (max-width: 450px) {
   h1 {
     font-size: 3.5em;
