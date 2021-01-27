@@ -21,8 +21,21 @@ h1 {
   font-size: 4em;
 }
 
+h1.home {
+  color: white;
+  text-align: center;
+  margin-top: 2.5em;
+}
+
 h2 {
   font-size: 2.8em;
+}
+
+#home-container {
+  height: 100vh;
+  background-image: url(images/earth.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #main-menu ul {
@@ -33,6 +46,11 @@ h2 {
   margin: 0;
   padding: 0;
   padding-top: 2em;
+}
+
+#main-menu.home a {
+  text-decoration: none;
+  color: #fff;
 }
 
 #content {
