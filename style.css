@@ -107,6 +107,10 @@ button:active {
   justify-content: space-between;
 }
 
+.article-item {
+  padding-bottom: 2em;
+}
+
 @media screen and (max-width: 450px) {
   h1 {
     font-size: 3.5em;
