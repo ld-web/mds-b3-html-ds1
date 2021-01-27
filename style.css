@@ -101,6 +101,12 @@ button:active {
   transition: transform 100ms ease-in-out;
 }
 
+#articles-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
 @media screen and (max-width: 450px) {
   h1 {
     font-size: 3.5em;
